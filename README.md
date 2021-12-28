@@ -22,6 +22,18 @@ This Specialization on Coursera contains four courses:
 
 
 
+### MLops Flow
+
+![Screenshot][Notes/Course1/Tech_Debt.png]
+
+![Screenshot][Notes/Course1/level_0.png]
+
+![Screenshot][Notes/Course1/level_1.png]
+
+![Screenshot][Notes/Course1/level_2.png]
+
+
+
 .
 
 
