@@ -1,7 +1,7 @@
 # MLops_Coursera
 ### Machine Learning Engineering for Production (MLOps) Specialization on Coursera (offered by deeplearning.ai)
 
-The GAN Specialization on Coursera contains three courses:
+This Specialization on Coursera contains four courses:
 
 1. [Course 1: Introduction to Machine Learning in Production](https://www.coursera.org/learn/introduction-to-machine-learning-in-production?specialization=machine-learning-engineering-for-production-mlops)
 
@@ -14,10 +14,15 @@ The GAN Specialization on Coursera contains three courses:
 
 
 
-### Misc Articles on MLops
+### MLops Tutorials
+
+[Best Tutorials - Google Cloud] (https://cloud.google.com/architecture/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning?utm_source=pocket_mylist)
 
 
 
+
+
+.
 
 
 
