@@ -28,7 +28,7 @@ This Specialization on Coursera contains four courses:
 
 
 
-### MLops Flow
+### MLops Stages
 
 Hidden Tech Debt in ML
 ![Hidden Tech Debt in ML](Notes/Misc/Tech_Debt.png)
@@ -38,7 +38,7 @@ MLOps - Level 0 - Manual Process
 ![MLOps - Level 0](Notes/Misc/level_0.png)
 
 
-MLOps - Level 1 - CT(Continous Training), Model Validation, Pipeline Trigger, and MetaData Store
+MLOps - Level 1 - CT(Continous Training), Model Validation, Pipeline Trigger, and MetaData Store (Missing CI)
 ![MLOps - Level 1](Notes/Misc/level_1.png)
 
 
@@ -48,6 +48,16 @@ MLOps - Level 2 - CI/CD
 
 MLOps - Level 2 - CI/CD
 ![MLOps - Level 2](Notes/Misc/CI_CD.png)
+
+
+
+
+Google TFX Tutorial
+[Google TFX Tutorials] (https://www.tensorflow.org/tfx/tutorials)
+
+
+TFX Tutorials
+[TFX Tutorials] (https://theaisummer.com/tfx/)
 
 
 
