@@ -24,13 +24,13 @@ This Specialization on Coursera contains four courses:
 
 ### MLops Flow
 
-![Hidden Tech Debt in ML](Notes/Course1/Tech_Debt.png)
+![Hidden Tech Debt in ML](Notes/Misc/Tech_Debt.png)
 
-![MLOps - Level 0](Notes/Course1/level_0.png)
+![MLOps - Level 0](Notes/Misc/level_0.png)
 
-![MLOps - Level 1](Notes/Course1/level_1.png)
+![MLOps - Level 1](Notes/Misc/level_1.png)
 
-![MLOps - Level 2](Notes/Course1/level_2.png)
+![MLOps - Level 2](Notes/Misc/level_2.png)
 
 
 
