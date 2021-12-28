@@ -25,6 +25,9 @@ This Specialization on Coursera contains four courses:
 
 
 
+### TFX Config
+
+![TFX Config](Notes/Misc/TFX.png)
 
 
 
@@ -52,8 +55,19 @@ MLOps - Level 2 - CI/CD
 
 
 
+
+
 Google TFX Tutorial
 [Google TFX Tutorials] (https://www.tensorflow.org/tfx/tutorials)
+
+
+
+
+Youtube TFX Tutorials
+[Youtube TFX Tutorials] (https://www.youtube.com/watch?v=VrBoQCchJQU)
+
+
+
 
 
 TFX Tutorials
@@ -62,6 +76,8 @@ TFX Tutorials
 
 
 
+Cookercutter for creating End-to-End ML Template.
+(https://github.com/mihail911/e2eml-cookiecutter)
 .
 
 
