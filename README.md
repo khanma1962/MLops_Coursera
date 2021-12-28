@@ -1,5 +1,7 @@
+
 # MLops_Coursera
 ### Machine Learning Engineering for Production (MLOps) Specialization on Coursera (offered by deeplearning.ai)
+
 
 This Specialization on Coursera contains four courses:
 
@@ -14,6 +16,8 @@ This Specialization on Coursera contains four courses:
 
 
 
+
+
 ### MLops Tutorials
 
 [Best Tutorials - Google Cloud] (https://cloud.google.com/architecture/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning?utm_source=pocket_mylist)
@@ -22,15 +26,29 @@ This Specialization on Coursera contains four courses:
 
 
 
+
+
 ### MLops Flow
 
+Hidden Tech Debt in ML
 ![Hidden Tech Debt in ML](Notes/Misc/Tech_Debt.png)
 
+
+MLOps - Level 0 - Manual Process
 ![MLOps - Level 0](Notes/Misc/level_0.png)
 
+
+MLOps - Level 1 - CT(Continous Training), Model Validation, Pipeline Trigger, and MetaData Store
 ![MLOps - Level 1](Notes/Misc/level_1.png)
 
+
+MLOps - Level 2 - CI/CD
 ![MLOps - Level 2](Notes/Misc/level_2.png)
+
+
+MLOps - Level 2 - CI/CD
+![MLOps - Level 2](Notes/Misc/CI_CD.png)
+
 
 
 
