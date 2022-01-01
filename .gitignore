@@ -30,3 +30,23 @@ Notes/Course 2/Week 1 - Introduction to MLEP.pdf
 Notes/Course 2/Week 2 - Feature Engineering, Transformation and Selection.pdf
 Notes/Course 2/Week 3 - Data Journey and Data Storage.pdf
 Notes/Course 2/Week 4 - Advanced Labeling, Augmentation and Data Preprocessing.pdf
+Notes/dont_delete_notes.zip
+Code/course2/Week 2/img/feature_eng_pipeline.png
+Code/course2/Week 2/adult.csv
+Code/course2/Week 2/adult.data
+Code/course2/Week 2/data/adult_copy.data
+Code/course2/Week 2/data/breast_cancer_data.csv
+Code/course2/Week 3/data/eval/data.csv
+Code/course2/Week 3/data/serving/data.csv
+Code/course2/Week 3/data/train/data.csv
+Code/course2/Week 4/data/climate/jena_climate_2009_2016.csv
+Code/course3/Week 2/baseline_weights.h5
+Code/course3/Week 2/HTRU_2.arff
+Code/course3/Week 2/HTRU_2.csv
+Code/course3/Week 2/HTRU2.zip
+Code/course3/Week 2/non_quantized.h5
+Code/course3/Week 2/non_quantized.tflite
+Code/course3/Week 2/post_training_quantized.tflite
+Code/course3/Week 2/pruned_model.h5
+Code/course3/Week 2/pruned_quantized.tflite
+Code/course3/Week 2/quant_aware_quantized.tflite
